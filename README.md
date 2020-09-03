@@ -1,2 +1,2 @@
 # Calculators-Java
-My Java Calculators
+These are some simple warm-up calculators that I made in Java.
